@@ -1,0 +1,51 @@
+#completion-bar {
+    width: 10%;
+}
+
+#resume-options {
+    margin: 40px 50px 0px auto;
+    overflow: hidden;
+}
+
+.resume-option-div {
+    width: 40%;
+    text-align: center;
+}
+
+.gray-option {
+    font-weight: bolder;
+    color: #828282;
+    background-color: #EDEDED;
+    border: 1px solid #EDEDED;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+#build-button {
+    margin-top: 20px;
+    font-size: 15px;
+}
+
+#upload-div {
+    margin-top: 25px;
+}
+
+#divider {
+    margin: 9%;
+}
+
+.vertical-line {
+    width: 1px;
+    height: 60px;
+    background-color: #A8A8A8;
+    margin-left: 5px;
+}
+
+#or {
+    color: #A8A8A8;
+    font-size: 10px;
+}
+
+#upload-text {
+    margin-bottom: 30px;
+}
