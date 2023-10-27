@@ -1,0 +1,47 @@
+#congrats-div {
+    padding: 5px;
+    padding-left: 10px;
+}
+
+label {
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+main {
+    height: 120px;
+}
+
+#check-img {
+    height: 30px;
+}
+
+#view-postings {
+    font-size: 15px;
+    font-weight: bolder;
+    color: #153B9D;
+    margin-top: 0px;
+    margin-right: 2%;
+}
+
+.gray-option {
+    font-weight: bolder;
+    color: #828282;
+    background-color: #EDEDED;
+    border: 1px solid #EDEDED;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 15px;
+}
+
+h6 {
+    font-size: 15px;
+    font-weight: bold;
+    margin-top: 0px;
+    margin-left: 20px;
+    margin-bottom: 0px;
+}
+
+li {
+    font-size: 15px;
+}
